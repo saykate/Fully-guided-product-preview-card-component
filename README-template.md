@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/saykate/Fully-guided-product-preview-card-component)
+- Live Site URL: (https://saykate.github.io/Fully-guided-product-preview-card-component/)
 - Followed this youTube: (https://www.youtube.com/watch?v=B2WL6KkqhLQ&t=119s)
 
 ## My process
